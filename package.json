@@ -6,6 +6,8 @@
   },
   "dependencies": {
     "@ensdomains/ens-contracts": "^0.0.12",
-    "@openzeppelin/contracts": "^4.7.3"
+    "@openzeppelin/contracts": "^4.7.3",
+    "eth-ens-namehash": "^2.0.8",
+    "web3-utils": "^1.7.5"
   }
 }
